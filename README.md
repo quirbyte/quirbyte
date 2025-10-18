@@ -1,27 +1,111 @@
-# 💫 About Me:
-## 👋 Hi, I'm Soumyadip — aka `quirbyte`<br><br>Full-stack dev meets competitive coder. I build quirky UIs, debug edge-case chaos, and share clean, beginner-friendly code.<br><br>Minimal fixes. Max clarity. Code that teaches.
+<img align="right" src="https://komarev.com/ghpvc/?username=quirbyte&label=Profile+Visits&color=green&style=flat-square" alt="quirbyte profile views" />
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋🏻;+I'm+Soumyadip+Mondal!;aka+%22quirbyte%22+🚀" />
+</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quirbyte) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quirbyte) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/quirbyte) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumyadipar12@gmail.com) 
+<div align="center">
+  <img src="https://iili.io/dXfE4P7.gif" alt="Coding Animation" width="480"/>
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=quirbyte&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=quirbyte&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=quirbyte&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="center">Full-Stack Developer ⚙️ | Competitive Coder 💻 | UI Tinkerer 🎨</h3>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=quirbyte&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<div align="center">
+💬 I build quirky UIs, debug edge-case chaos, and write clean, beginner-friendly code.<br/>
+Minimal fixes. Max clarity. Code that teaches.
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=quirbyte&limit=5&theme=merko&combine_all_yearly_contributions=true)
+<br/>
+
+<div align="center">
+  <a href="mailto:soumyadipar12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/quirbyte" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/quirbyte" target="_blank">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/quirbyte" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</div>
+
+<hr/>
+
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css,react,nextjs,express,nodejs,mongodb,mysql,tailwind,vite,git,github,figma,vercel,netlify,postman" />
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=quirbyte&theme=merko&show_icons=true&hide_border=true&count_private=true" 
+    alt="quirbyte's GitHub stats"
+    width="500"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=quirbyte&theme=merko&hide_border=true" 
+    alt="quirbyte's GitHub streak"
+    width="500"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=quirbyte&theme=merko&layout=compact&hide_border=true" 
+    alt="Top languages"
+    width="500"
+  />
+
+</div>
+
+<hr/>
+
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=quirbyte&theme=merko&no-frame=false&no-bg=true&margin-w=15" />
+</div>
+
+<hr/>
+
+<h2 align="center">🔝 Top Contributed Repos</h2>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=quirbyte&limit=5&theme=merko&combine_all_yearly_contributions=true" width="600" />
+</div>
+
+<hr/>
+
+<h3 align="center">✍️ Random Dev Quote</h3>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev quote" />
+</div>
+
+<hr/>
+
+<h2 align="center">🐍 My Contributions 🐍</h2>
+
+<div align="center">
+  <img src="https://github.com/quirbyte/quirbyte/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+</div>
+
+<hr/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=quirbyte&label=Profile+Visits&color=green&style=for-the-badge" alt="quirbyte profile views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=quirbyte&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">✨ Proudly crafted by <b>quirbyte</b> ✨</p>
