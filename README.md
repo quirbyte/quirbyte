@@ -86,7 +86,7 @@ Minimal fixes. Max clarity. Code that teaches.
 
 <hr/>
 
-<h3 align="center">✍️ Random Dev Quote</h3>
+<h3 align="center">✍️Quote</h3>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev quote" />
