@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Soumyadip — aka `quirbyte`<br><br>Full-stack dev meets competitive coder. I build quirky UIs, debug edge-case chaos, and share clean, beginner-friendly code. Currently crafting Tickit, exploring greedy DFS, and rebranding across the web.<br><br>Minimal fixes. Max clarity. Code that teaches.
+## 👋 Hi, I'm Soumyadip — aka `quirbyte`<br><br>Full-stack dev meets competitive coder. I build quirky UIs, debug edge-case chaos, and share clean, beginner-friendly code.<br><br>Minimal fixes. Max clarity. Code that teaches.
 
 
 ## 🌐 Socials:
