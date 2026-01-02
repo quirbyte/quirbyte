@@ -29,7 +29,7 @@ Minimal fixes. Max clarity. Code that teaches.
   <a href="https://x.com/quirbyte" target="_blank">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" />
   </a>
-  <a href="https://instagram.com/quirbyte" target="_blank">
+  <a href="https://www.instagram.com/itz_soumyadip7" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </div>
