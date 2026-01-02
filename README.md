@@ -71,14 +71,6 @@
 
 <hr/>
 
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quirbyte&theme=merko&no-frame=false&no-bg=true&margin-w=15" />
-</div>
-
-<hr/>
-
 <h2 align="center">🔝 Top Contributed Repos</h2>
 
 <div align="center">
