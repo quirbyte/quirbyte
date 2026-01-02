@@ -44,32 +44,6 @@ Minimal fixes. Max clarity. Code that teaches.
 
 <hr/>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-
-<div align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=quirbyte&theme=merko&show_icons=true&hide_border=true&count_private=true" 
-    alt="quirbyte's GitHub stats"
-    width="500"
-  />
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=quirbyte&theme=merko&hide_border=true" 
-    alt="quirbyte's GitHub streak"
-    width="500"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=quirbyte&theme=merko&layout=compact&hide_border=true" 
-    alt="Top languages"
-    width="500"
-  />
-
-</div>
-
-<hr/>
-
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
 <div align="center">
