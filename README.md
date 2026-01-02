@@ -42,10 +42,31 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<h2 align="center">⚒️ Technologies & Tools ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css,react,nextjs,express,nodejs,mongodb,mysql,tailwind,vite,git,github,figma,vercel,netlify,postman" />
+  <table align="center">
+    <tr>
+      <td align="left"><b>Languages</b></td>
+      <td><img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css" /></td>
+    </tr>
+    <tr>
+      <td align="left"><b>Frontend</b></td>
+      <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma" /></td>
+    </tr>
+    <tr>
+      <td align="left"><b>Backend</b></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma" /></td>
+    </tr>
+    <tr>
+      <td align="left"><b>Database</b></td>
+      <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /></td>
+    </tr>
+    <tr>
+      <td align="left"><b>DevOps & Tools</b></td>
+      <td><img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify" /></td>
+    </tr>
+  </table>
 </div>
 
 <hr/>
