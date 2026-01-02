@@ -77,7 +77,7 @@
 <h2 align="center">🐍 My Contributions 🐍</h2>
 
 <div align="center">
-  <img src="https://github.com/quirbyte/quirbyte/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/quirbyte/quirbyte/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
 
 <hr/>
