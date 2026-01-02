@@ -13,8 +13,14 @@
 <br/>
 
 <div align="center">
-💬 I build quirky UIs, debug edge-case chaos, and write clean, beginner-friendly code.<br/>
-Minimal fixes. Max clarity. Code that teaches.
+💬 I build quirky UIs, debug edge-case chaos, and write clean, beginner-friendly code.
+
+  
+  <br/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/quirbyte/quirbyte/main/assets/assets.gif" width="100%" alt="Coding Divider" />
 </div>
 
 <br/>
