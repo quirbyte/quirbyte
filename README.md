@@ -75,10 +75,12 @@
 <hr/>
 
 <h2 align="center">🔝 Top Used Languages</h2>
-
-<img 
+<div align="center">
+  <img 
     src="https://github-readme-stats-zeta-flax-72.vercel.app/api/top-langs/?username=quirbyte&theme=tokyonight&hide_border=true&layout=compact" 
-    width="90%" />
+    width="90%" 
+  />
+</div>
 
 <hr/>
 
