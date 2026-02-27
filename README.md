@@ -74,11 +74,11 @@
 
 <hr/>
 
-<h2 align="center">🔝 Top Contributed Repos</h2>
+<h2 align="center">🔝 Top Used Languages</h2>
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=quirbyte&limit=5&theme=merko&combine_all_yearly_contributions=true" width="600" />
-</div>
+<img 
+    src="https://github-readme-stats-zeta-flax-72.vercel.app/api/top-langs/?username=quirbyte&theme=tokyonight&hide_border=true&layout=compact" 
+    width="90%" />
 
 <hr/>
 
