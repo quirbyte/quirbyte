@@ -67,7 +67,8 @@
     </tr>
     <tr>
       <td align="left"><b>DevOps & Tools</b></td>
-      <td><img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify" /></td>
+      <td><img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify" />
+<img src="https://cdn.simpleicons.org/render/46E3B7" height="48" style="vertical-align: middle;" />
     </tr>
   </table>
 </div>
