@@ -62,8 +62,12 @@
       </td>
     </tr>
     <tr>
-      <td align="left"><b>DevOps & Tools</b></td>
-      <td><img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,aws,nginx,docker,prometheus,grafana,kubernetes" />
+      <td align="left"><b>DevOps</b></td>
+      <td><img src="https://skillicons.dev/icons?i=github,aws,nginx,docker,prometheus,grafana,kubernetes" />
+    </tr>
+    <tr>
+      <td align="left"><b>Tools</b></td>
+      <td><img src="https://skillicons.dev/icons?i=git,postman,vercel,netlify" />
     </tr>
   </table>
 </div>
