@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <td align="left"><b>DevOps & Tools</b></td>
-      <td><img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,aws,nginx,docker" />
+      <td><img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,aws,nginx,docker,prometheus,grafana" />
     </tr>
   </table>
 </div>
