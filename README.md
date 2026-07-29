@@ -58,7 +58,7 @@
     <tr>
       <td align="left"><b>Database</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
       </td>
     </tr>
     <tr>
