@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td align="left"><b>Tools</b></td>
-      <td><img src="https://skillicons.dev/icons?i=git,postman,vercel,netlify" />
+      <td><img src="https://skillicons.dev/icons?i=git,postman,vercel,netlify,cloudflare" />
     </tr>
   </table>
 </div>
