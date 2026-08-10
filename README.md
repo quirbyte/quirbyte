@@ -45,7 +45,7 @@
   <table align="center">
     <tr>
       <td align="left"><b>Languages</b></td>
-      <td><img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css" /></td>
+      <td><img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,php" /></td>
     </tr>
     <tr>
       <td align="left"><b>Frontend</b></td>
@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td align="left"><b>Tools</b></td>
-      <td><img src="https://skillicons.dev/icons?i=git,postman,vercel,netlify,cloudflare" />
+      <td><img src="https://skillicons.dev/icons?i=git,postman,vercel,netlify,cloudflare,wordpress" />
     </tr>
   </table>
 </div>
