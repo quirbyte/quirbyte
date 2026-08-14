@@ -105,7 +105,7 @@
 ---
 <h2 align="center">📈 Contribution Graph</h2>
 
-[![Suprabhat github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=quirbyte&theme=tokyo-night)](https://github.com/quirbyte)
+(https://github-readme-activity-graph.vercel.app/graph?username=quirbyte&theme=tokyo-night)](https://github.com/quirbyte)
 
 <hr/>
 
