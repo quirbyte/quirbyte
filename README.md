@@ -105,7 +105,9 @@
 ---
 <h2 align="center">📈 Contribution Graph</h2>
 
-(https://github-readme-activity-graph.vercel.app/graph?username=quirbyte&theme=tokyo-night)](https://github.com/quirbyte)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quirbyte&theme=tokyo-night" alt="quirbyte's Contribution Graph" />
+</p>
 
 <hr/>
 
